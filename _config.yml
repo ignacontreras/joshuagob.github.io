@@ -1,36 +1,33 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
+title: Dr. Joshua G. Ortiz Baco
+email: jortizba@utk.edu
+description: Academic webpage of Dr. Joshua G. Ortiz Baco
 baseurl: ""
 url: ""
-affiliation: I am part of the <a href="http://www.eas.caltech.edu/" target="_blank">Division of Engineering and Applied Science</a> at the California Institute of Technology
+affiliation: I am the digital scholarship librarian of the <a href="https://www.lib.utk.edu/scholar/" target="_blank">Scholars' Collaborative</a> at the University of Tennessee Libraries
 
 # Google analytics ID
-google_analytics: UA-167467135-1
+google_analytics: ""
 
 # Location info. (shown in footer)
 location: >
-  Coordinates: <br/>
-  Gates-Thomas Laboratory <br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44<br/>
+  236G John C. Hodges Library <br/>
+  University of Tennessee, Knoxville <br/>
+  1015 Volunteer Blvd<br/>
+  Knoxville, TN 37996<br/>
 
 # Contact info. (shown in footer)
 contact: >
-    Contact Spencer via email: <a href="mailto:spencer@caltech.edu" target="_blank">spencer@caltech.edu</a> <br/>
+    Contact Joshua via email: <a href="mailto:jortizba@utk.edu" target="_blank">jortizba@utk.edu</a> <br/>
     <br/><a href="/aboutwebsite.html">Use this webpage as a template for your own!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
+  - name: teaching
   - name: publications
   - name: talks
-  - name: research
-  - name: software
-# - name: team
-# - name: teaching
+  - name: team
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
