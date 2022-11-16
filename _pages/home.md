@@ -14,12 +14,9 @@ code {padding: 6px 8px; font-size: 90%;}
 <br/>
 #### `$whoami`
 
-New biomedical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulation tools provide a promising path forward.
-I am a computational scientist who clears these paths via new data-driven models, numerical algorithms, and extreme-scale software.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">very-low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my scalable open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve human patient outcomes for a range of medical treatments (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
-
+I'm interested in the intersection of the humanities and technology. The humanities have been asking key questions about how technology plays out in the world. Through digital humanities, research in the humanities can leverage new perspectives to reframe existing conversations. 
+I'm a digital humanist trained in Latin American and Caribbean studies enjoying the chance to collaborate with brilliant scholars.  
+Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/navigating-2022.pdf" target="_blank">modeling of interdisciplinary work in DH, CS, and periodical studies.</a> 
 <br/>
 
 <div class="row" style="text-align:center">
@@ -33,11 +30,11 @@ These developments guide biomicrofluidic device design and improve human patient
 
 #### `$id`
 
-I am currently a Senior Postdoctoral Scholar at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
-I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
-Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
-I have a Ph.D. and M.S. in Theoretical and Applied Mechanics from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
-I hold B.S. degrees in Mechanical Engineering and Engineering Mathematics from the University of Michigan–Dearborn (2013).
+I am an Assistant Professor and the Digital Scholarship Librarian at the <a href="https://lib.utk.edu/scholar" target="_blank">Scholars’ Collaborative</a>, a department offering digital scholarship services in the <a href="https://lib.utk.edu" target="_blank">John C. Hodges Library, University of Tennessee</a>.
+
+Previously, I was a graduate research assistant at the <a href="https://sites.utexas.edu/llilasbensonds/" target="_blank">Digital Scholarship Office of LLILAS Benson</a>, junior fellow for the <a href="https://www.loc.gov/programs/of-the-people/represent/connecting-communities-digital-initiative/" target="_blank">Library of Congress Connecting Communities Digital Initiative</a>, and an intern at the <a href="https://www.neh.gov/divisions/preservation/" target="_blank">Division of Preservation and Access of the National Endownment for the Humanities</a>.
+I have a Ph.D. and M.A. in Latin American and Caribbean Literature and Culture from the University of Texas at Austin (2014, 2016 and 2022).
+
 
 <br/>
 <div class="well-md">
