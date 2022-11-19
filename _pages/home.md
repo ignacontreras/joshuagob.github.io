@@ -24,9 +24,9 @@ I'm a digital humanist trained in Latin American and Caribbean studies now enjoy
 Recent examples of collaborative work include the <a href="{{ site.url }}{{ site.baseurl }}/papers/navigating-2022.pdf" target="_blank">modeling of interdisciplinary work in DH, CS, and periodical studies. </a>With Ben Lee, Sarah Salter, and Jim Casey.
 <br/>
 
-{:refdef: style="text-align: center;"}
-![chr-work.png]({{ site.url }}{{ site.baseurl }}/images/pubpic/chr-work.png){: width="500" }
-{: refdef}
+
+
+![chr-work.png](/images/pubpic/chr-work.png){:.centered}
 
 <!---<div class="row" style="text-align:center">
 <video controls autoplay muted loop width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;">

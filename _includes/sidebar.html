@@ -1,7 +1,8 @@
 <div class="well">
 <h4>{{ site.name }}</h4>
 
-{% for member in site.data.pi %}<p style="font-weight: 700;color: #ff0000;"></p>
+{% for member in site.data.pi %}
+
 <div class="row">
   <a href="{{site.url}}{{site.baseurl}}/about"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="60%" style="block:inline; margin-left:auto; margin-right:auto;" /></a>
   <center><h4>{{ member.name }}</h4>
