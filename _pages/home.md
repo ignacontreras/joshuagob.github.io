@@ -11,13 +11,14 @@ code {padding: 6px 8px; font-size: 90%;}
 
 
 
-## Welcome
+# Welcome
 <br/>
+
+
 ###### `loading....`
+<br/>
 
-
-
-I'm interested in the intersection of the humanities and technology. The humanities have been asking key questions about how technology plays out in the world. Through digital humanities, research in the humanities can leverage new perspectives to reframe existing conversations. 
+I'm interested in the intersection of the humanities and technology. The humanities have been asking key questions about how technology shapes the world. Through digital humanities, research in the humanities can leverage new methods to push existing conversations in multiple fields and facilitate new interdisciplinary ones. 
 
 I'm a digital humanist trained in Latin American and Caribbean studies now enjoying the chance to be a bit of a generalist and collaborate with brilliant scholars.
 
@@ -25,8 +26,13 @@ Recent examples of collaborative work include the <a href="{{ site.url }}{{ site
 <br/>
 
 
+<!--Align center-->
+<p align="center" width="100%">
+    <img width="85%" src="images/pubpic/chr-work.png"> 
+</p>
 
-![chr-work.png](/images/pubpic/chr-work.png){:.centered}
+
+
 
 <!---<div class="row" style="text-align:center">
 <video controls autoplay muted loop width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;">
