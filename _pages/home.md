@@ -32,8 +32,6 @@ Recent examples of collaborative work include the <a href="{{ site.url }}{{ site
 </p>
 
 
-
-
 <!---<div class="row" style="text-align:center">
 <video controls autoplay muted loop width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;">
   <source src="{{ site.url }}{{ site.baseurl }}/images/videos/3dtrain_breakdown2.mp4" type="video/mp4">

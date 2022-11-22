@@ -4,3 +4,8 @@ _site/*
 .DS_Store
 */.DS_Store
 */*/.DS_Store
+django_calendar/
+fullcalendar/
+calendar-1.thml
+php/
+
