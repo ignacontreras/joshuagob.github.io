@@ -6,7 +6,7 @@ on:
       - main # or master before October 2020
 
 jobs:
-  github-pages:
+  jekyll:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
