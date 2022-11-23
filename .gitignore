@@ -8,4 +8,8 @@ django_calendar/
 fullcalendar/
 calendar-1.thml
 php/
-
+.vscode/extensions.json
+.jekyll-metadata
+.calendar-1.html
+_pages/home-copy.md
+_pages/aboutwebsite.md
