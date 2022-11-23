@@ -19,7 +19,7 @@ location: >
 # Contact info. (shown in footer)
 contact: >
     Contact Joshua via email: <a href="mailto:jortizba@utk.edu" target="_blank">jortizba@utk.edu</a> <br/>
-    <br/><a href="/aboutwebsite.html">Use this webpage as a template for your own!</a>
+
 
 # Pages shown in navbar
 nav_pages:
