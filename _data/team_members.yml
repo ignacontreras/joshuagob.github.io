@@ -1,5 +1,5 @@
 - name: Example student name
-  photo: rock.jpg
+  photo: rock.jpeg
   info: Postdoc, started Oct 2040
   email: exampleemail@gmail.com
   website: https://website.com
@@ -9,7 +9,7 @@
 
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: rock-2.jpeg
   info: See <a href="www">openings</a> for more info
   number_educ: 0
   education1:
