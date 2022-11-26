@@ -8,7 +8,7 @@ permalink: /talks/
 # Talks
 
 {% if site.data.conference_talks %}
-## Conference Abstracts
+## Conference
 
 {% for publi in site.data.conference_talks %}
 * <strong>{{ publi.title }}</strong> <br/> <i>{{ publi.authors }}</i>, {{ publi.conf }} ({{ publi.year }})
