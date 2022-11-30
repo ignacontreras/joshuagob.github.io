@@ -1,0 +1,17 @@
+{% extends 'events/base.html' %} 
+
+{% block content %}
+    <center>
+    <h1><u> {{ name }}</u> 
+    <br/>Events for {{ month }} {{ year }}</h1>
+
+
+    <br/><br/>
+    {{ cal|safe }}
+    <br/><br/><br/><br/><br/><br/><br/><br/>
+
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /></a> 
+    <br/>{{ current_year }} - {{ time }}
+
+    </center>
+{% endblock %}

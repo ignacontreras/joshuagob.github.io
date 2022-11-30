@@ -1,0 +1,7 @@
+@article{lee_navigating_nodate,
+	title = {Navigating the {Mise}-en-{Page}: {Interpretive} {Machine} {Learning} {Approaches} to the {Visual} {Layouts} of {Multi}-{Ethnic} {Periodicals}},
+	abstract = {This paper presents a computational method of analysis that draws from machine learning, library science, and literary studies to map the visual layouts of multi-ethnic newspapers from the late 19th and early 20th century United States. This work departs from prior approaches to newspapers that focus on individual pieces of textual and visual content. Our method combines Chronicling America’s MARC data and the Newspaper Navigator machine learning dataset to identify the visual patterns of newspaper page layouts. By analyzing high-dimensional visual similarity, we aim to better understand how editors spoke and protested through the layout of their papers.},
+	language = {en},
+	author = {Lee, Benjamin Charles Germain and Ortiz Baco, Joshua and Salter, Sarah H and Casey, Jim},
+	pages = {13},
+}
